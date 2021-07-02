@@ -9,8 +9,8 @@ class Db
     protected $config = [
         'driver' => 'mysql',
         'host' => 'localhost:3306',
-        'login' => 'root',
-        'password' => 'root',
+        'login' => 'test',
+        'password' => '12345',
         'database' => 'shop',
         'charset' => 'utf8'
     ];
